@@ -38,4 +38,3 @@ var result = name + 2; // Taner Saydam2
 //% 
 
 var r2 = (x % 2);
-

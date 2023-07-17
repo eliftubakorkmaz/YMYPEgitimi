@@ -3,7 +3,7 @@ Console.WriteLine("Elif Tuba Korkmaz");
 
 //string, int, decimal, double, float, bool, DateTime, Object
 
-string name; // ataması değeri null => boş 
+string name; // atanmasız değeri null => boş 
 
 int age; // atamasız değeri 0
 
