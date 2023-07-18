@@ -5,9 +5,11 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Degıskenler", "01.Degıskenler\01.Degıskenler.csproj", "{EA1F074A-5DC5-43D7-B726-C6EDBEE23FD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DegerTiplerVeReferansTipler", "02.DegerTiplerVeReferansTipler\02.DegerTiplerVeReferansTipler.csproj", "{C344497D-57F1-4E8D-BEC9-7D7474A2A561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DegerTiplerVeReferansTipler", "02.DegerTiplerVeReferansTipler\02.DegerTiplerVeReferansTipler.csproj", "{C344497D-57F1-4E8D-BEC9-7D7474A2A561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Operatörler", "03.Operatörler\03.Operatörler.csproj", "{12A53BA5-6C0F-48DD-BCD4-44C85AB8FE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Operatörler", "03.Operatörler\03.Operatörler.csproj", "{12A53BA5-6C0F-48DD-BCD4-44C85AB8FE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SartBlogları", "04.SartBlogları\04.SartBlogları.csproj", "{C456443B-91E1-4613-9F59-757F1D0F5798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{12A53BA5-6C0F-48DD-BCD4-44C85AB8FE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A53BA5-6C0F-48DD-BCD4-44C85AB8FE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A53BA5-6C0F-48DD-BCD4-44C85AB8FE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C456443B-91E1-4613-9F59-757F1D0F5798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C456443B-91E1-4613-9F59-757F1D0F5798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C456443B-91E1-4613-9F59-757F1D0F5798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C456443B-91E1-4613-9F59-757F1D0F5798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

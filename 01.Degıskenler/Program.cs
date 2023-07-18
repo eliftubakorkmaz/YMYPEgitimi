@@ -17,3 +17,5 @@ char karakter = 'A';
 
 Console.WriteLine(nameLastName);
 
+
+Console.ReadLine();
