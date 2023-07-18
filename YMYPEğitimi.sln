@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SartBlogları", "04.Sart
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Listeler", "05.Listeler\05.Listeler.csproj", "{75D0D44F-338F-47C7-AA36-9FA2E0291915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Döngüler", "06.Döngüler\06.Döngüler.csproj", "{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{75D0D44F-338F-47C7-AA36-9FA2E0291915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D0D44F-338F-47C7-AA36-9FA2E0291915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D0D44F-338F-47C7-AA36-9FA2E0291915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
