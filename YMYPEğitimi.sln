@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Listeler", "05.Listeler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Döngüler", "06.Döngüler\06.Döngüler.csproj", "{CDFF2AA3-15ED-4A97-8B14-7B088E2A1055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NameGoster", "07.NameGoster\07.NameGoster.csproj", "{BCA64E6D-DB36-4D9C-BB61-20225250AECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NameGoster", "07.NameGoster\07.NameGoster.csproj", "{BCA64E6D-DB36-4D9C-BB61-20225250AECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Oyun_SayiTahminEt", "08.Oyun_SayiTahminEt\08.Oyun_SayiTahminEt.csproj", "{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Oyun_SayiTahminEt", "08.Oyun_SayiTahminEt\08.Oyun_SayiTahminEt.csproj", "{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.HataYonetimi", "09.HataYonetimi\09.HataYonetimi.csproj", "{031FF937-0AC6-4EA9-A115-16E891E8E1A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031FF937-0AC6-4EA9-A115-16E891E8E1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031FF937-0AC6-4EA9-A115-16E891E8E1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031FF937-0AC6-4EA9-A115-16E891E8E1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031FF937-0AC6-4EA9-A115-16E891E8E1A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
