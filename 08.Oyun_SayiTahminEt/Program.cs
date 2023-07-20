@@ -7,8 +7,9 @@
             Console.WriteLine("Lütfen isminizi giriniz.");
             string name = Console.ReadLine();
             Console.WriteLine("Sayı Tahmin Oyununa Hoşgeldiniz! " + name );
-            
-            int sayi = 5;
+            Random rastgele = new();
+
+            int sayi = rastgele.Next(1,10);
             int tahmin = 0;
           
             // for, foreach, while => break bu döngüyü kırıp çıkmanızı sağlar.
