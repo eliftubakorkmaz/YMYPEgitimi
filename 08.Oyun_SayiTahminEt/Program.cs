@@ -11,6 +11,7 @@
 
             int sayi = rastgele.Next(1,10);
             int tahmin = 0;
+            int deneme = 0;
           
             // for, foreach, while => break bu döngüyü kırıp çıkmanızı sağlar.
             // continue => bir defaya mahsus atlamamızı sağlar.
@@ -33,14 +34,17 @@
 
                 Console.WriteLine("Tahmininiz: " + tahminEdilenSayi);
 
-                if (sayi.ToString() == tahminEdilenSayi)
+                if (sayi == tahmin)
                 {
-                    Console.WriteLine("Tebrikler. Tuttuğum sayıyı buldunuz.");
-                    break;
+                    //Console.WriteLine("Tebrikler. Tuttuğum sayıyı " + deneme + " buldunuz.");
+                    Console.WriteLine($"Tebrikler. Tuttuğum sayıyı {deneme} buldunuz.");
+                    tahmin = sayi;
+                    continue;
                 }
                 else
                 {
                     Console.WriteLine("Tuttuğum sayıyı bilemediniz.");
+                    deneme++;
                 }
             }
         }
