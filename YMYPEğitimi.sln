@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NameGoster", "07.NameGos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Oyun_SayiTahminEt", "08.Oyun_SayiTahminEt\08.Oyun_SayiTahminEt.csproj", "{B674F482-1E69-4EFB-80E6-B9E9D27EDBAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.HataYonetimi", "09.HataYonetimi\09.HataYonetimi.csproj", "{031FF937-0AC6-4EA9-A115-16E891E8E1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.HataYonetimi", "09.HataYonetimi\09.HataYonetimi.csproj", "{031FF937-0AC6-4EA9-A115-16E891E8E1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Metotlar", "10.Metotlar\10.Metotlar.csproj", "{154BC77D-1310-49E4-B91A-F539805DB739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Metotlar", "10.Metotlar\10.Metotlar.csproj", "{154BC77D-1310-49E4-B91A-F539805DB739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ArabalarConsoleApp", "11.ArabalarConsoleApp\11.ArabalarConsoleApp.csproj", "{1611CA75-2445-4B7B-BBC8-837BD1F87898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ArabalarConsoleApp", "11.ArabalarConsoleApp\11.ArabalarConsoleApp.csproj", "{1611CA75-2445-4B7B-BBC8-837BD1F87898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
